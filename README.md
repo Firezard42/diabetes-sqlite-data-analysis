@@ -1,3 +1,7 @@
+# ETL Diabetes com Python e SQLite
+
+## 📌 Descrição do Projeto
+
 Este projeto consiste na construção de um mini pipeline de ETL (Extract, Transform, Load) utilizando Python, SQLite e SQL, com o objetivo de realizar o tratamento e a transformação de dados de pacientes com diabetes, gerando um novo dataset pronto para análise.
 
 O processo envolve a leitura de um arquivo CSV, armazenamento dos dados em um banco de dados relacional SQLite, aplicação de filtros e regras de negócio e, por fim, a exportação dos dados processados para um novo arquivo CSV.
